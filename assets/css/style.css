@@ -400,7 +400,7 @@ svg.MuiSvgIcon-root.text-primary {
     text-transform: uppercase;
     padding: 20px 0 ;
 }
-@media(max-width: 991px), {
+@media(max-width: 991px) {
     div.MuiChip-root, a.MuiChip-root {
         margin: 10px ;
     }
